@@ -1,5 +1,6 @@
 <?php
 
-$conn=new mysqli("localhost","bo_housie","bo_housie@421","bo_housie");
+$conn=new mysqli("localhost","root","","housie");
 
 ?>
+ 
